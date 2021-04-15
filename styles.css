@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
 :root {
   --color: #dc2626;
 }
 * {
-  font-family: "MedievalSharp", cursive;
+  font-family: "Bubblegum Sans", cursive;
   margin: 0;
   text-align: center;
 }
